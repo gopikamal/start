@@ -8,7 +8,7 @@ public class fri {
 			
 		{
 			
-	System.out.println("friday testing ");
+	System.out.println("friday testing.... " +i);
 // system.out.println("testing friday");	
 		}		
 	}
