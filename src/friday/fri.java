@@ -4,11 +4,11 @@ public class fri {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for (int i=0;i<=10;i++)
-			
+		//for (int i=0;i<=10;i++)
+	
 		{
 			
-	System.out.println("friday testing.... " +i);
+	System.out.println("friday gopi testing.... ");
 // system.out.println("testing friday");	
 		}		
 	}
