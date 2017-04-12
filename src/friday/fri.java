@@ -9,6 +9,8 @@ public class fri {
 		{
 			
 	System.out.println("friday gopi testing.... "+i);
+	System.out.println("one more gopi testing.... "+i);
+	
 //system.out.println("testing friday");	
 		}		
 	}
